@@ -69,6 +69,10 @@ To generate random test accounts and leads:
 php artisan migrate:fresh --seed
 ```
 
+## Screenshots
+
+![Dashboard Cover](./dashboard%20-%20cover.png)
+
 ## 📄 License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
