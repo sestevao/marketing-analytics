@@ -69,6 +69,12 @@ To generate random test accounts and leads:
 php artisan migrate:fresh --seed
 ```
 
+## 🔐 Default Credentials (Seeder)
+
+If you ran the seeder, you can log in with:
+- **Email**: `admin@example.com`
+- **Password**: `password`
+
 ## Screenshots
 
 ![Dashboard Cover](./dashboard%20-%20cover.png)
